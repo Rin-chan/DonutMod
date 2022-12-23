@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simpledonut"
+	    },
+		{
+			"item": "minecraft:purple_dye"
+		},
+		{
+			"item": "minecraft:sugar"
+		}
+    ],
+    "result": {
+        "item": "donutmod:ubefrostingdonut"
+    }
+}

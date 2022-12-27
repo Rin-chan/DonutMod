@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simpledonut"
+	    },
+		{
+			"item": "minecraft:cookie"
+		},
+		{
+			"item": "minecraft:milk_bucket"
+		}
+    ],
+    "result": {
+        "item": "donutmod:cookiecreamdonut"
+    }
+}

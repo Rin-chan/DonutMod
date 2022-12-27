@@ -1,4 +1,4 @@
-# DonutMod (1.19.2) (WIP)
+# DonutMod (1.19.2)
 Adding 46 donuts and mochi into the game with potion effects from those sugar rush.<br>
 
 <br>

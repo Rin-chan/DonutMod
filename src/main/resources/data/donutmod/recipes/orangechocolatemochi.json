@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simplemochi"
+	    },
+		{
+			"item": "minecraft:orange_dye"
+		},
+		{
+			"item": "minecraft:cocoa_beans"
+		}
+    ],
+    "result": {
+        "item": "donutmod:orangechocolatemochi"
+    }
+}

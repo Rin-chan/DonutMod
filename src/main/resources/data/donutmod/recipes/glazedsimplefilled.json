@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simplefilled"
+	    },
+		{
+			"item": "minecraft:honey_bottle"
+		}
+    ],
+    "result": {
+        "item": "donutmod:glazedsimplefilled"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simplemochi"
+	    },
+		{
+			"item": "minecraft:brown_dye"
+		}
+    ],
+    "result": {
+        "item": "donutmod:brownmochi"
+    }
+}

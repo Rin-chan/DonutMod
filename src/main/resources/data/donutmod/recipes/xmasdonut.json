@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simpledonut"
+	    },
+		{
+			"item": "minecraft:red_dye"
+		},
+		{
+			"item": "minecraft:snowball"
+		}
+    ],
+    "result": {
+        "item": "donutmod:xmasdonut"
+    }
+}

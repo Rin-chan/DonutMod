@@ -1,0 +1,27 @@
+modLoader="javafml"
+loaderVersion="[45,)"
+license="All rights reserved"
+[[mods]]
+modId="donutmod"
+version="1.0.0"
+displayName="Donut Mod"
+logoFile="examplemod.png"
+credits="Developer: Rin-Chan on Github, Artist: Neuqui on itch.io"
+authors="Rin-Chan for development, Neuqui for all assets used"
+description='''
+A mod with a lot of donuts to improve your Minecraft experience!
+
+Doctors not included.
+'''
+[[dependencies.donutmod]]
+    modId="forge"
+    mandatory=true
+    versionRange="[45,)"
+    ordering="NONE"
+    side="BOTH"
+[[dependencies.donutmod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.4,1.20)"
+    ordering="NONE"
+    side="BOTH"

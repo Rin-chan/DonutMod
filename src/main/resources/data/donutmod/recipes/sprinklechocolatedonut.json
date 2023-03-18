@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simpledonut"
+	    },
+		{
+			"item": "minecraft:cocoa_beans"
+		},
+		{
+			"item": "minecraft:sugar"
+		}
+    ],
+    "result": {
+        "item": "donutmod:sprinklechocolatedonut"
+    }
+}

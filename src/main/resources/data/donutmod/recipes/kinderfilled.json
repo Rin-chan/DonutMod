@@ -1,0 +1,17 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simplefilled"
+	    },
+		{
+			"item": "minecraft:gray_dye"
+		},
+		{
+			"item": "minecraft:cocoa_beans"
+		}
+    ],
+    "result": {
+        "item": "donutmod:kinderfilled"
+    }
+}

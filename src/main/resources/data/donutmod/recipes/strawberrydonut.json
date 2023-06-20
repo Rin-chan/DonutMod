@@ -1,0 +1,14 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "ingredients": [
+	    {
+	        "item": "donutmod:simpledonut"
+	    },
+		{
+			"item": "minecraft:pink_dye"
+		}
+    ],
+    "result": {
+        "item": "donutmod:strawberrydonut"
+    }
+}
